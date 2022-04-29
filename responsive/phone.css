@@ -1,0 +1,38 @@
+.navbar ul li{
+    font-size: 1rem;
+}
+#accueil{
+    display: flex;
+    flex-direction: column;
+}
+.social{
+    margin-top: 7%;
+    width: 100%;
+}
+.headings{
+    font-size: 1.2rem;
+}
+#pic img{
+    width: 200px;
+    border-radius: 50%;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+.input{
+    width: 80%;
+}
+#msg{
+    width: 80%;
+}
+#send{
+    width: 30%;
+}
+footer{
+    font-size: 1rem;
+}
