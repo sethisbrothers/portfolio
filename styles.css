@@ -130,6 +130,7 @@ html{
     font-size: 2rem;
     margin-bottom: 20px;
 }
+/*================Projet================*/
 #projet{
     display: flex;
     position: relative;
@@ -138,6 +139,7 @@ html{
     color: white;
     align-items: center;
     padding: 20px;
+    z-index: -1;
 }
 .gallery{
     display: flex;
