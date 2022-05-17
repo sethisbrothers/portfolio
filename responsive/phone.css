@@ -7,11 +7,11 @@
 }
 .btn{
     margin-top: 20%;
-    margin-left: -20%;
+    margin-left: -40%;
 }
 .social{
     margin-top: 40%;
-    margin-left: -25%;
+    margin-left: -60%;
     width: 100%;
 }
 .headings{
@@ -19,7 +19,7 @@
 }
 .main .headings{
     font-size: 1.5rem;
-    transform: translate(-20%, 10%);
+    transform: translate(-30%, 10%);
 }
 #pic img{
     width: 200px;
